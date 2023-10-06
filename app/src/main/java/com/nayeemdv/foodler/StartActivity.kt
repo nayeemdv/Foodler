@@ -14,8 +14,7 @@ class StartActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.btnNext.setOnClickListener {
-            startActivity(Intent(this, MainActivity::class.java))
-            finish()
+            startActivity(Intent(this, LoginActivity::class.java))
         }
     }
 }
