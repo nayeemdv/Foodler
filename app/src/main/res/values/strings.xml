@@ -17,4 +17,5 @@
     <string name="email_or_phone">Email or Phone Number</string>
     <string name="sign_up_with">Sign Up With</string>
     <string name="already_have_account">Already Have Account?</string>
+    <string name="to_provide_you">To Provide you with the best dining experience, we need your permission to access your device\'s location, by enabling location services. we can offer personalized restaurant recomendations, accurate delivery estimates, and ensure a seamless food delivery experience.</string>
 </resources>
