@@ -1,4 +1,4 @@
-package com.nayeemdv.foodler
+package com.nayeemdv.foodler.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

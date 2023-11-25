@@ -1,8 +1,9 @@
-package com.nayeemdv.foodler
+package com.nayeemdv.foodler.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ArrayAdapter
+import com.nayeemdv.foodler.R
 import com.nayeemdv.foodler.databinding.ActivityChooseLocationBinding
 
 class ChooseLocationActivity : AppCompatActivity() {

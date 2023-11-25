@@ -1,9 +1,10 @@
-package com.nayeemdv.foodler
+package com.nayeemdv.foodler.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
+import com.nayeemdv.foodler.R
 import com.nayeemdv.foodler.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

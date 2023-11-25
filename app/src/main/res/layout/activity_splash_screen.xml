@@ -5,7 +5,7 @@
     android:id="@+id/splashscreen"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SplashScreenActivity">
+    tools:context=".activities.SplashScreenActivity">
 
 
     <ImageView
@@ -19,7 +19,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/tv_title"
+        android:id="@+id/popular_foodName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
@@ -36,9 +36,9 @@
         android:layout_marginTop="12dp"
         android:text="Delivery Favorite Food"
         android:textSize="14sp"
-        app:layout_constraintEnd_toEndOf="@+id/tv_title"
-        app:layout_constraintStart_toStartOf="@+id/tv_title"
-        app:layout_constraintTop_toBottomOf="@id/tv_title" />
+        app:layout_constraintEnd_toEndOf="@+id/popular_foodName"
+        app:layout_constraintStart_toStartOf="@+id/popular_foodName"
+        app:layout_constraintTop_toBottomOf="@id/popular_foodName" />
 
 
     <TextView
