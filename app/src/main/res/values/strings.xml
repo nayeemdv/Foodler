@@ -27,4 +27,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="popular">Popular</string>
     <string name="view_menu">View Menu</string>
+    <string name="proceed">Proceed</string>
+    <string name="food_name">Food Name</string>
 </resources>

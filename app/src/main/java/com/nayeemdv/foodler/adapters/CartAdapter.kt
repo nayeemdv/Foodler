@@ -33,7 +33,7 @@ class CartAdapter(
 
                 btnDelete.setOnClickListener {
                     val itemPosition = adapterPosition
-                    if (itemPosition!= RecyclerView.NO_POSITION)
+                    if (itemPosition != RecyclerView.NO_POSITION)
                         deleteItem(itemPosition)
                 }
 
